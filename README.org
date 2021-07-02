@@ -6,6 +6,8 @@
 
 keywords: [[https://srfi.schemers.org/?keywords=binding][Binding]], [[https://srfi.schemers.org/?keywords=control-flow][Control Flow]]
 
+library-name: cond
+
 This repository hosts [[https://srfi.schemers.org/srfi-61/][SRFI 61]]: A more general cond clause, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
